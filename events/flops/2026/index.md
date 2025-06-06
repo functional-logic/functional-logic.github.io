@@ -33,8 +33,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Ekaterina Komendantskaya (Co-chair), School of Mathematical and
   Computer Sciences (MACS), Heriot-Watt University
 - Mike Sperber (Co-chair), Active Group
-- Sin'ya Ryoma (Co-Chair), Graduate School of Engineering Science
-  Department of Mathematical Science and
+- Sin'ya Ryoma (Co-Chair), Department of Mathematical Science and
   Electrical-Electronic-Computer Engineering, Akita University
 
 - Reynald Affeldt, AIST 
