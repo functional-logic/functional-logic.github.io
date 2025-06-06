@@ -36,8 +36,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Ekaterina Komendantskaya (Co-chair), School of Mathematical and
   Computer Sciences (MACS), Heriot-Watt University
 - Mike Sperber (Co-chair), Active Group
-- Sin'ya Ryoma (Co-Chair), Department of Mathematical Science and
-  Electrical-Electronic-Computer Engineering, Akita University
+- Sin'ya Ryoma (Co-Chair), Department of Mathematical Science and Electrical-Electronic-Computer Engineering, Akita University
 
 - Reynald Affeldt, AIST 
 - Davide Ancona, Genova 
@@ -54,7 +53,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Jason Heman, Seton Hall University
 - Mirai Ikebuchi, Kyoto University
 - Ranjit Jhala, UC San Diego
-- Wen Kokke, Well-TYped
+- Wen Kokke, Well-Typed
 - Dale Miller, Inria Saclay - Île-de-France and the Laboratoire d'Informatique (LIX)
 - Simon Peyton Jones, Epic Games
 - Benjamin Pierce, University of Pennsylvania
