@@ -1,5 +1,5 @@
 ---
-title: Functional Logic Programming 2024
+title: Symposium Functional and Logic Programming 2024
 subtitle: 17th International Symposium on Functional and Logic Programming
 layout: page
 ---
