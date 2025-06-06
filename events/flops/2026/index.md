@@ -36,3 +36,31 @@ online (2020), online (2022), and Kumamoto (2024).
 - Sin'ya Ryoma (Co-Chair), Graduate School of Engineering Science
   Department of Mathematical Science and
   Electrical-Electronic-Computer Engineering, Akita University
+
+- Reynald Affeldt, AIST 
+- Davide Ancona, Genova 
+- Lennart Augustsson, Epic Games
+- Mutsunori Banbara, Nagoya University
+- Alessandro  Bruni, ITU Copenhagen
+- William Byrd, University of Alabama at Birmingham
+- Pedro Cabalar, Corunna University
+- Youyou Cong, Institute of Science Tokyo
+- Matthew Daggitt, U. Western Australia
+- Jeremy Gibbons, Oxford University
+- Andy  Gordon, Cogna
+- Gopal Gupta, University of Texas
+- Jason Heman, Seton Hall University
+- Mirai Ikebuchi, Kyoto University
+- Ranjit Jhala, UC San Diego
+- Wen Kokke, Well-TYped
+- Dale Miller, Inria Saclay - Île-de-France and the Laboratoire d'Informatique (LIX)
+- Simon Peyton Jones, Epic Games
+- Benjamin Pierce, University of Pennsylvania
+- Michael Rawson, Southampton
+- Takehide Soh, Kobe University , Ryoma
+- Theresa Swift, Universidade Nova de Lisboa
+- Enrico Tassi, INRIA
+- Ekaterina Verbitskaia, JetBrains Research
+- Christina Zeller, Active Group
+- Neng-Fa Zhou, Brooklyn College
+
