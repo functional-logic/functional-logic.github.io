@@ -50,7 +50,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Jeremy Gibbons, Oxford University
 - Andy  Gordon, Cogna
 - Gopal Gupta, University of Texas
-- Jason Heman, Seton Hall University
+- Jason Hemann, Seton Hall University
 - Mirai Ikebuchi, Kyoto University
 - Ranjit Jhala, UC San Diego
 - Wen Kokke, Well-Typed
