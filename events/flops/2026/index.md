@@ -58,7 +58,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Simon Peyton Jones, Epic Games
 - Benjamin Pierce, University of Pennsylvania
 - Michael Rawson, Southampton
-- Takehide Soh, Kobe University , Ryoma
+- Takehide Soh, Kobe University
 - Theresa Swift, Universidade Nova de Lisboa
 - Enrico Tassi, INRIA
 - Ekaterina Verbitskaia, JetBrains Research
