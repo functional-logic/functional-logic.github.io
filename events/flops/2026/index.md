@@ -48,7 +48,7 @@ online (2020), online (2022), and Kumamoto (2024).
 - Youyou Cong, Institute of Science Tokyo
 - Matthew Daggitt, U. Western Australia
 - Jeremy Gibbons, Oxford University
-- Andy  Gordon, Cogna
+- Andrew D. Gordon, Cogna and University of Edinburgh
 - Gopal Gupta, University of Texas
 - Jason Hemann, Seton Hall University
 - Mirai Ikebuchi, Kyoto University
