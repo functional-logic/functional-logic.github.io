@@ -1,13 +1,11 @@
-======================================================================
+---
+title: FLOPS 2026 - Call for Papers
+subtitle: 18th International Symposium on Functional and Logic Programming
+layout: page
+---
 
-		 *** FLOPS 2026 - Call For Papers ***
-   18th International Symposium on Functional and Logic Programming
-
-		    May 26-28, 2026, Akita, Japan
-
-	   https://functional-logic.org/events/flops/2026/
-
-======================================================================
+## [18th International Symposium on Functional and Logic Programming](../)
+## May 26-28, 2026, Akita, Japan
 
 FLOPS aims to bring together practitioners, researchers and implementers
 of declarative programming, to discuss mutually interesting results and
@@ -24,7 +22,7 @@ Previous FLOPS meetings were held at Fuji Susono (1995), Shonan Village
 Kanazawa (2014), Kochi (2016), Nagoya (2018), Akita (2020, online), 
 Kyoto (2022, online), and Kumamoto (2024). 
 
-SCOPE
+## Scope
 
 FLOPS solicits original papers in all areas of declarative programming:
 
@@ -47,7 +45,7 @@ what has been accomplished, explaining why it is significant for its
 area, and comparing it with previous work. Submission of system
 descriptions and declarative pearls are especially encouraged.
 
-SUBMISSION
+## Submission
 
 Submissions should fall into one of the following categories:
 
@@ -61,13 +59,17 @@ judged on originality, usefulness, and design.
 with illustrative applications.
 
 System descriptions and declarative pearls must be explicitly marked as
-such in the title.
+such in the title. 
 
 Submissions must be unpublished and not submitted for publication
 elsewhere. Work that already appeared in unpublished or informally
 published workshops proceedings may be submitted. Authors must follow
-Springer’s Code of Conduct. See also the ACM SIGPLAN Republication
-Policy. At least one author of each accepted paper should plan to
+[Springer’s Code of
+Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct). See
+also the 
+[ACM SIGPLAN Republication
+Policy](http://www.sigplan.org/Resources/Policies/Republication).
+At least one author of each accepted paper should plan to
 attend the conference in person to present the work: there will be no
 general facility for online or pre-recorded presentation (but we will
 do our best to accommodate visa issues and similar unavoidable
@@ -75,8 +77,10 @@ obstacles).
 
 Submissions must be written in English and can be up to 15 pages
 excluding references, though system descriptions and pearls are
-typically shorter. The formatting has to conform to Springer’s
-guidelines. Regular research papers should be supported by proofs
+typically shorter. The formatting has to conform to 
+[Springer’s
+guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Regular research papers should be supported by proofs
 and/or experimental results. In case of lack of space, this supporting
 information should be made accessible otherwise (e.g., a link to an
 anonymized web page or an appendix, which does not count towards the
@@ -85,44 +89,39 @@ guarantee that their paper can be understood and appreciated without
 referring to this supporting information; reviewers may simply choose
 not to look at it when writing their review.
 
-For more details, see
-
-   https://functional-logic.org/events/flops/2026/
-
 Papers should be submitted electronically at
 
    TBD
 
-PUBLICATION
+## Publication
 
 The proceedings will be published by Springer in the LNCS series. We
 expect to invite the authors of a selection of the best papers to submit
 an extended version of their FLOPS paper to a special issue which will
 appear in the journal Science of Computer Programming.
 
-IMPORTANT DATES
+## Important Dates
 
 All deadlines are Anywhere on Earth (AoE = UTC-12).
 
-Abstracts due         Dec 8, 2025
-Submission deadline   Dec 15, 2025
-Notifications         Feb 2, 2026
-Final versions        March 2, 2026
+|-------------------------|-------------------|
+| **Abstracts due**    | Dec 8, 2025    |
+| **Submission deadline** | Dec 16, 2025    |
+| **Notifications**   | Feb 2, 2026  |
+| **Final versions**            | March 2, 2026 |
 
-ORGANIZERS
+## Organizers
 
-Ekaterina Komendantskaya (Co-chair), School of Mathematical and
-Computer Sciences (MACS), Heriot-Watt University
+- Ekaterina Komendantskaya (Co-chair), School of Mathematical and
+  Computer Sciences (MACS), Heriot-Watt University
+- Mike Sperber (Co-chair), Active Group
+- Sin’ya Ryoma (Co-Chair), Department of Mathematical Science and
+  Electrical-Electronic-Computer Engineering, Akita University
 
-Mike Sperber (Co-chair), Active Group
-
-Sin’ya Ryoma (Co-Chair), Department of Mathematical Science and
-Electrical-Electronic-Computer Engineering, Akita University
-
-FLOPS SPONSORSHIP
+## FLOPS Sponsorship
 
 TBD
 
-CONTACT ADDRESS
+## Contact Address
 
-flops2026_at_deinprogramm_de
+`flops2026_at_deinprogramm_de`
