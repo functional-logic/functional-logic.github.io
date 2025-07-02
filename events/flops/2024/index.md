@@ -4,9 +4,10 @@ subtitle: 17th International Symposium on Functional and Logic Programming
 layout: page
 ---
 
-Welcome to the website of the 17th International Symposium on
+Welcome to the archival website of the 17th International Symposium on
 Functional and Logic Programming (FLOPS 2024) May 15-May 17, 2024 in
-Kumamoto, Japan.
+Kumamoto, Japan.  (The original website of FLOPS 2024 is
+[here](https://conf.researchr.org/home/flops-2024).)
 
 FLOPS 2024 is
 co-sponsored by Special Interest Group on Programming and Programming
