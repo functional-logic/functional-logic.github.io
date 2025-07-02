@@ -26,10 +26,20 @@ cross-fertilization between theory and practice and among different
 styles of declarative programming.
 
 Previous FLOPS meetings were held at Fuji Susono (1995), Shonan
-Village (1996), Kyoto (1998), Tsukuba (1999), Tokyo (2001), Aizu
-(2002), Nara (2004), Fuji Susono (2006), Ise (2008), Sendai (2010),
-Kobe (2012), Kanazawa (2014), Kochi (2016), Nagoya (2018), 
-online (2020), online (2022), and Kumamoto (2024).
+Village (1996), Kyoto (1998), Tsukuba (1999),
+[Tokyo](https://www.ueda.info.waseda.ac.jp/flops2001/) (2001), Aizu
+(2002), [Nara](http://www.cs.tsukuba.ac.jp/~kam/flops2004/) (2004),
+Fuji Susono (2006),
+[Ise](http://www.math.nagoya-u.ac.jp/~garrigue/FLOPS2008/) (2008),
+[Sendai](https://web.archive.org/web/20161224011357/http://www.kb.ecei.tohoku.ac.jp/flops2010/wiki/index.php?FrontPage)
+(2010), [Kobe](http://www.org.kobe-u.ac.jp/flops2012/) (2012),
+[Kanazawa](http://www.jaist.ac.jp/flops2014/) (2014),
+[Kochi](http://www.info.kochi-tech.ac.jp/FLOPS2016/#pc) (2016), Nagoya
+(2018), [<del>Akita</del>
+online](https://www.ipl.riec.tohoku.ac.jp/FLOPS2020/#program) (2020),
+and [<del>Kyoto</del>
+online](https://conf.researchr.org/home/flops-2022) (2022),
+and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
 
 ## Program Committee
 
