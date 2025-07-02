@@ -119,6 +119,36 @@ Mike Sperber (Co-chair), Active Group
 Sin’ya Ryoma (Co-Chair), Department of Mathematical Science and
 Electrical-Electronic-Computer Engineering, Akita University
 
+PROGRAM COMMITTEE
+
+- Reynald Affeldt, AIST 
+- Davide Ancona, Genova 
+- Lennart Augustsson, Epic Games
+- Mutsunori Banbara, Nagoya University
+- Alessandro  Bruni, ITU Copenhagen
+- William Byrd, University of Alabama at Birmingham
+- Pedro Cabalar, Corunna University
+- Youyou Cong, Institute of Science Tokyo
+- Matthew Daggitt, U. Western Australia
+- Jeremy Gibbons, Oxford University
+- Andrew D. Gordon, Cogna and University of Edinburgh
+- Gopal Gupta, University of Texas
+- Jason Hemann, Seton Hall University
+- Mirai Ikebuchi, Kyoto University
+- Ranjit Jhala, UC San Diego
+- Wen Kokke, Well-Typed
+- Dale Miller, Inria Saclay - Île-de-France and the Laboratoire d'Informatique (LIX)
+- Simon Peyton Jones, Epic Games
+- Benjamin Pierce, University of Pennsylvania
+- Michael Rawson, Southampton
+- Takehide Soh, Kobe University
+- Theresa Swift, Universidade Nova de Lisboa
+- Enrico Tassi, INRIA
+- Ekaterina Verbitskaia, JetBrains Research
+- Christina Zeller, Active Group
+- Neng-Fa Zhou, Brooklyn College
+- Akimasa Morihara, The University of Tokyo
+
 FLOPS SPONSORSHIP
 
 TBD
