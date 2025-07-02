@@ -20,7 +20,6 @@ title: Functional Logic Programming
 ###############################################
 
 navbar-links:
-  About:  "about.html"
   FLOPS:
      - FLOPS 2026: "events/flops/2026/"
      - FLOPS 2024: "events/flops/2024/"
