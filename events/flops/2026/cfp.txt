@@ -98,7 +98,7 @@ PUBLICATION
 The proceedings will be published by Springer in the LNCS series. We
 expect to invite the authors of a selection of the best papers to submit
 an extended version of their FLOPS paper to a special issue which will
-appear in the journal Science of Computer Programming.
+appear in the Science of Computer Programming journal.
 
 IMPORTANT DATES
 
