@@ -82,8 +82,8 @@ typically shorter. The formatting has to conform to
 guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 Regular research papers should be supported by proofs
 and/or experimental results. In case of lack of space, this supporting
-information should be made accessible otherwise (e.g., a link to an
-anonymized web page or an appendix, which does not count towards the
+information should be made accessible otherwise (e.g., a link to a
+web page or an appendix, which does not count towards the
 page limit). However, it is the responsibility of the authors to
 guarantee that their paper can be understood and appreciated without
 referring to this supporting information; reviewers may simply choose
