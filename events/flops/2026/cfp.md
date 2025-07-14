@@ -28,9 +28,12 @@ FLOPS solicits original papers in all areas of declarative programming:
 
 * functional, logic, functional-logic programming, rewriting systems,
 formal methods and model checking, program transformations and program
-refinements, developing programs with the help of theorem provers or
+refinements;
+
+* developing programs with the help of theorem provers or
 SAT/SMT solvers, verifying properties of programs using declarative
-programming techniques;
+programming techniques, or statistical methods including generative
+AI (*);
 
 * foundations, language design, implementation issues (compilation
 techniques, memory management, run-time systems, etc.), applications and
@@ -44,6 +47,15 @@ contributions in both general and technical terms, clearly identifying
 what has been accomplished, explaining why it is significant for its
 area, and comparing it with previous work. Submission of system
 descriptions and declarative pearls are especially encouraged.
+
+(\*) Note that FLOPS is a Programming Languages conference.
+Submissions should be accessible to a Programming Languages audience.
+The Program Committee has been selected from that audience, and it
+may be unable to gauge the quality of your submission if that requires
+specialized competencies in statistical methods and/or AI.  Special
+attention should also be paid to the reproducibility of the results
+from public sources.
+
 
 ## Submission
 
