@@ -103,7 +103,7 @@ not to look at it when writing their review.
 
 Papers should be submitted electronically at
 
-   TBD
+[`https://meteor.springer.com/FLOPS2026`](https://meteor.springer.com/FLOPS2026)
 
 ## Publication
 
