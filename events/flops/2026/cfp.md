@@ -160,10 +160,6 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 - Neng-Fa Zhou, Brooklyn College
 - Akimasa Morihara, The University of Tokyo
 
-## FLOPS Sponsorship
-
-TBD
-
 ## Contact Address
 
 `flops2026_at_deinprogramm_de`
