@@ -102,7 +102,7 @@ For more details, see
 
 Papers should be submitted electronically at
 
-   TBD
+https://meteor.springer.com/FLOPS2026
 
 PUBLICATION
 
@@ -159,10 +159,6 @@ PROGRAM COMMITTEE
 - Christina Zeller, Active Group
 - Neng-Fa Zhou, Brooklyn College
 - Akimasa Morihara, The University of Tokyo
-
-FLOPS SPONSORSHIP
-
-TBD
 
 CONTACT ADDRESS
 
