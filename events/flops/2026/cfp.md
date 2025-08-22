@@ -158,7 +158,7 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 - Ekaterina Verbitskaia, JetBrains Research
 - Christina Zeller, Active Group
 - Neng-Fa Zhou, Brooklyn College
-- Akimasa Morihara, The University of Tokyo
+- Akimasa Morihata, The University of Tokyo
 
 ## Contact Address
 
