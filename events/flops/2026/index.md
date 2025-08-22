@@ -13,6 +13,11 @@ co-sponsored by Special Interest Group on Programming and Programming
 Languages (SIG-PPL), Japan Society for Software Science and Technology
 (JSSST), in cooperation with ACM SIGPLAN.
 
+## Call for Papers
+
+The [Call for Papers](cfp/) is open.  Deadlines are Dec 8, 2025 for
+abstracts and Dec 16, 2026 for papers.
+
 ## About FLOPS
 
 FLOPS aims to bring together practitioners, researchers and
