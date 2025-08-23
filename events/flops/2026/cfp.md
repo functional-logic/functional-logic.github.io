@@ -127,7 +127,7 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 - Ekaterina Komendantskaya (Co-chair), School of Mathematical and
   Computer Sciences (MACS), Heriot-Watt University
 - Mike Sperber (Co-chair), Active Group
-- Sin’ya Ryoma (Co-Chair), Department of Mathematical Science and
+- Ryoma Sin’ya (Co-Chair), Department of Mathematical Science and
   Electrical-Electronic-Computer Engineering, Akita University
 
 ## Program Committee

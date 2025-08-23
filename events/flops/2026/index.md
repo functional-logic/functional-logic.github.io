@@ -51,7 +51,7 @@ and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
 - Ekaterina Komendantskaya (Co-chair), School of Mathematical and
   Computer Sciences (MACS), Heriot-Watt University
 - Mike Sperber (Co-chair), Active Group
-- Sin'ya Ryoma (Co-Chair), Department of Mathematical Science and Electrical-Electronic-Computer Engineering, Akita University
+- Ryoma Sin’ya (Co-Chair), Department of Mathematical Science and Electrical-Electronic-Computer Engineering, Akita University
 
 - Reynald Affeldt, AIST 
 - Davide Ancona, Genova 
@@ -79,4 +79,4 @@ and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
 - Ekaterina Verbitskaia, JetBrains Research
 - Christina Zeller, Active Group
 - Neng-Fa Zhou, Brooklyn College
-- Akimasa Morihara, The University of Tokyo
+- Akimasa Morihata, The University of Tokyo
