@@ -133,7 +133,7 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 ## Program Committee
 
 - Reynald Affeldt, AIST 
-- Davide Ancona, Genova 
+- Davide Ancona, University of Genova 
 - Lennart Augustsson, Epic Games
 - Mutsunori Banbara, Nagoya University
 - Alessandro  Bruni, ITU Copenhagen

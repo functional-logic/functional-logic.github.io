@@ -54,7 +54,7 @@ and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
 - Ryoma Sin’ya (Co-Chair), Department of Mathematical Science and Electrical-Electronic-Computer Engineering, Akita University
 
 - Reynald Affeldt, AIST 
-- Davide Ancona, Genova 
+- Davide Ancona, University of Genova 
 - Lennart Augustsson, Epic Games
 - Mutsunori Banbara, Nagoya University
 - Alessandro  Bruni, ITU Copenhagen
