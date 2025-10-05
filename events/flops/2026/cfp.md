@@ -105,6 +105,8 @@ Papers should be submitted electronically at
 
 [`https://meteor.springer.com/FLOPS2026`](https://meteor.springer.com/FLOPS2026)
 
+Reviewing will be single-blind.
+
 ## Publication
 
 The proceedings will be published by Springer in the LNCS series. We
