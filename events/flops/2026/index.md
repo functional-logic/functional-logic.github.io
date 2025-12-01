@@ -18,6 +18,11 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 The [Call for Papers](cfp/) is open.  Deadlines are Dec 8, 2025 for
 abstracts and Dec 16, 2026 for papers.
 
+## Keynote Speakers
+
+- [Fritz Henglein](https://di.ku.dk/english/staff/?pure=en/persons/14770),
+  University of Copenhagen
+
 ## About FLOPS
 
 FLOPS aims to bring together practitioners, researchers and
