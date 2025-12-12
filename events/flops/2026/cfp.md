@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## [18th International Symposium on Functional and Logic Programming](../)
-## May 26-28, 2026, Akita, Japan
+## May 26-28, 2026, Tsukuba, Japan
 
 FLOPS aims to bring together practitioners, researchers and implementers
 of declarative programming, to discuss mutually interesting results and
@@ -126,11 +126,9 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 ## Organizers
 
-- Ekaterina Komendantskaya (Co-chair), School of Mathematical and
-  Computer Sciences (MACS), Heriot-Watt University
-- Mike Sperber (Co-chair), Active Group
-- Ryoma Sin’ya (Co-Chair), Department of Mathematical Science and
-  Electrical-Electronic-Computer Engineering, Akita University
+- Ekaterina Komendantskaya (Program co-chair), University of Southampton
+- Mike Sperber (Program co-chair), Active Group
+- Yukiyoshi Kameyama (General Chair), Department of Computer Science, University of Tsukuba,
 
 ## Program Committee
 

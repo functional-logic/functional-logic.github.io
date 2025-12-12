@@ -6,7 +6,7 @@ layout: page
 
 Welcome to the website of the 18th International Symposium on
 Functional and Logic Programming (FLOPS 2026) on May 26-May 28, 2026
-in Akita, Japan.
+in Tsukuba, Japan.
 
 FLOPS 2026 is
 co-sponsored by Special Interest Group on Programming and Programming
@@ -53,10 +53,9 @@ and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
 
 ## Program Committee
 
-- Ekaterina Komendantskaya (Co-chair), School of Mathematical and
-  Computer Sciences (MACS), Heriot-Watt University
-- Mike Sperber (Co-chair), Active Group
-- Ryoma Sin’ya (Co-Chair), Department of Mathematical Science and Electrical-Electronic-Computer Engineering, Akita University
+- Ekaterina Komendantskaya (Program co-chair), University of Southampton
+- Mike Sperber (Program co-chair), Active Group
+- Yukiyoshi Kameyama (General Chair), Department of Computer Science, University of Tsukuba,
 
 - Reynald Affeldt, AIST 
 - Davide Ancona, University of Genova 
