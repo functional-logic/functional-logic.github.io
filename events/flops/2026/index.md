@@ -22,6 +22,8 @@ abstracts and Dec 16, 2026 for papers.
 
 - [Fritz Henglein](https://di.ku.dk/english/staff/?pure=en/persons/14770),
   University of Copenhagen
+- [Gabriele Keller](https://www.uu.nl/staff/GKKeller),
+  Utrecht University
 
 ## About FLOPS
 
