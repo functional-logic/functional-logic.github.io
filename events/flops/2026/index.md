@@ -15,8 +15,7 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 
 ## Call for Papers
 
-The [Call for Papers](cfp/) is open.  Deadlines are Dec 8, 2025 for
-abstracts and Dec 16, 2026 for papers.
+The [Call for Papers](cfp/) is closed.
 
 ## Keynote Speakers
 
