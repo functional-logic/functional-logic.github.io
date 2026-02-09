@@ -1,4 +1,8 @@
-# Registration
+---
+title: Registration
+subtitle: 18th International Symposium on Functional and Logic Programming
+layout: page
+---
 
 FLOPS 2026 will be held as an in-person event.
 Participants must register online (no on-site registration
