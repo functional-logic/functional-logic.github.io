@@ -1,6 +1,12 @@
-# Venue: University of Tsukuba
+---
+title: "Venue: University of Tsukuba"
+subtitle: 18th International Symposium on Functional and Logic Programming
+layout: page
+---
 
-![Tsukuba's Lambda](./TsukubasLambda.jpg)
+<div style="text-align: center">
+<img src="./TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 50%" />
+</div>
 
 Tsukuba is located about 50 kilometers from the center of Tokyo. The most convenient way to reach the venue is to first go to Tsukuba Station (also known as Tsukuba Center), and then take a local bus to the campus of the University of Tokyo. You can use [Suica card](https://www.jreast.co.jp/en/multi/suica/) for payment in most public transportation in Japan.
 
