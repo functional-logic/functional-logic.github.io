@@ -19,7 +19,7 @@ The [Call for Papers](cfp/) is closed.
 
 ## Keynote Speakers
 
-- [Kazunori Udea](https://www.ueda.info.waseda.ac.jp/~ueda/)
+- [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/), Waseda Univerity
 - [Fritz Henglein](https://di.ku.dk/english/staff/?pure=en/persons/14770),
   University of Copenhagen
 - [Gabriele Keller](https://www.uu.nl/staff/GKKeller),
