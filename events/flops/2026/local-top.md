@@ -23,7 +23,7 @@ layout: page
 ## Links to local information
 
 * [Travel & Venue](https://www.functional-logic.org/events/flops/2026/venue/)
-* [Accommodation](https://www.functional-logic.org/events/flops/2026/accommodation/)
+* [Accommodation](https://www.functional-logic.org/events/flops/2026/accommodations/)
 * [Registration](https://www.functional-logic.org/events/flops/2026/registration/)
 
 ## Contact
