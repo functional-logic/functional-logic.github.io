@@ -4,10 +4,6 @@ subtitle: 18th International Symposium on Functional and Logic Programming
 layout: page
 ---
 
-<div style="text-align: center">
-<img src="/events/flops/2026/TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 50%" />
-</div>
-
 FLOPS 2026 will be held physically (in person).
 Participants must register online before the meeting (no on-site registration is possible).
 The early registration deadline is April 25, 23:59 JST (UTC+9).
