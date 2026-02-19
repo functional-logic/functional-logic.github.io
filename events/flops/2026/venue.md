@@ -73,15 +73,6 @@ From the "Dai-Ichi Area Mae" bus stop, find the (unique) whitish building that h
 
 * Free WiFi is available at [Narita Airport](https://www.narita-airport.jp/en/service/internet/power-outlet/), [Haneda Airport](https://tokyo-haneda.com/en/service/facilities/wireless_lan.html?timestamp=1753930402348), and [TX Stations](https://www.mir.co.jp/en/useful/wi-fi.html), including Tsukuba.
 
-## VISA
-
-Some information on Japan-entry VISA is available here.
-
-* [VISA page provided by the Japanese Government](https://www.mofa.go.jp/j_info/visit/visa/)
-* [Visa Exemptions](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)
-* If you need a VISA support letter, email to the local organizer (find the address below)
-no later than March 31, 2026.
-
 ## Contact
 
 FLOPS 2026 local organizers: 

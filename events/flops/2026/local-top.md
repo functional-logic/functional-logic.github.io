@@ -14,6 +14,9 @@ layout: page
 
 ## Schedule at a glance
 
+FLOPS 2026 starts at 9:30 AM on May 26, and
+ends on May 28.
+
 | Day                       | 9:30 AM - 17:30 PM |
 |:-------------------------:|:-----------------:|
 | Day 1 (May 26, Tuesday)   | Technical sessions and poster session |
@@ -23,8 +26,9 @@ layout: page
 ## Links to local information
 
 * [Travel & Venue](https://www.functional-logic.org/events/flops/2026/venue/)
-* [Accommodation](https://www.functional-logic.org/events/flops/2026/accommodations/)
+* [Accommodations](https://www.functional-logic.org/events/flops/2026/accommodations/)
 * [Registration](https://www.functional-logic.org/events/flops/2026/registration/)
+* [VISA](https://www.functional-logic.org/events/flops/2026/visa/)
 
 ## Contact
 
