@@ -1,4 +1,4 @@
-Subject: Call for Participation: Functional and Logic Programming (FLOPS, May 26-28, Tskukuba)
+Subject: Call for Participation: Functional and Logic Programming (FLOPS, May 26-28, Tsukuba)
 
 ======================================================================
 
@@ -99,3 +99,5 @@ Accepted papers:
 
 - Coltharp, N., Libby, S., Israel, L., Li, Y.: Unifying Hindsight and
   Foresight: Lazy Cost Analysis as Functional Logic Programming
+
+Further information about the conference and local arrangements is available on the conference website. 
