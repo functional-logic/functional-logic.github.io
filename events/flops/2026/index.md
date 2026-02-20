@@ -4,6 +4,10 @@ subtitle: 18th International Symposium on Functional and Logic Programming
 layout: page
 ---
 
+<div style="text-align: center">
+<img src="/events/flops/2026/TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 50%" />
+</div>
+
 Welcome to the website of the 18th International Symposium on
 Functional and Logic Programming (FLOPS 2026) on May 26-May 28, 2026
 in Tsukuba, Japan.
@@ -13,11 +17,29 @@ co-sponsored by Special Interest Group on Programming and Programming
 Languages (SIG-PPL), Japan Society for Software Science and Technology
 (JSSST), in cooperation with ACM SIGPLAN.
 
-## Call for Papers
+## Local Information
 
-The [Call for Papers](cfp/) is closed.
+* [Travel & Venue](https://www.functional-logic.org/events/flops/2026/venue/)
+* [Accommodations](https://www.functional-logic.org/events/flops/2026/accommodations/)
+* [Registration](https://www.functional-logic.org/events/flops/2026/registration/)
+* [VISA](https://www.functional-logic.org/events/flops/2026/visa/)
 
-## Keynote Speakers
+## Schedule
+
+FLOPS 2026 starts at 9:30 AM on May 26, and
+ends on May 28.
+
+| Day                       | 9:30 AM - 17:30 PM |
+|:-------------------------:|:-----------------:|
+| Day 1 (May 26, Tuesday)   | Technical sessions|
+| Day 2 (May 27, Wednesday) | Technical sessions, excursion and banquet|
+| Day 3 (May 28, Thursday)  | Technical sessions and poster session  |
+
+## Contact
+FLOPS 2026 local organizers: 
+<span style="color=red">flops.tsukuba@gmail.com</span>
+
+## Keynotes
 
 - [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/), Waseda Univerity
 - [Fritz Henglein](https://di.ku.dk/english/staff/?pure=en/persons/14770),
@@ -52,6 +74,10 @@ online](https://www.ipl.riec.tohoku.ac.jp/FLOPS2020/#program) (2020),
 and [<del>Kyoto</del>
 online](https://conf.researchr.org/home/flops-2022) (2022),
 and [Kumamoto](https://functional-logic.org/events/flops/2024/) (2024).
+
+## Call for Papers
+
+The [Call for Papers](cfp/) is closed.
 
 ## Program Committee
 
