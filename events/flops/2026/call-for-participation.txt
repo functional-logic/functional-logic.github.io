@@ -4,7 +4,7 @@ Subject: Call for Participation: Functional and Logic Programming (FLOPS, May 26
 
 	     *** FLOPS 2026 -- CALL FOR PARTICIPATION ***
 
-		 The 18th International Symposium on
+		 The 18Tm International Symposium on
 		   Functional and Logic Programming
 
 		      May 26-28, Tsukuba, Japan
@@ -18,7 +18,7 @@ Programming (FLOPS 2026) on May 26-May 28, 2026 in Tsukuba, Japan.
 
 FLOPS 2026 is co-sponsored by Special Interest Group on Programming
 and Programming Languages (SIG-PPL), Japan Society for Software
-Science and Technology (JSSST), in cooperation with ACM SIGPLAN.
+Science and Technology (JSSST).
 
 FLOPS brings together practitioners, researchers and implementers of
 declarative programming, to discuss mutually interesting results and
@@ -34,7 +34,7 @@ FLOPS 2026 will take place at the University of Tskukuba.  Tsukuba is
 about 60km from central Tokyo, and easily reachable via public
 transport from both Haneda and Narita airports.
 
-Tsukuba is as Japan's science and technology city.  Yet, it preserves
+Tsukuba is a Japan's science and technology city.  Yet, it preserves
 its rich traditions and local heritage with attractions such as
 Mt. Tsukuba and Tsukubasan Shrine.
 
