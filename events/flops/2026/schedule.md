@@ -4,6 +4,8 @@ subtitle: 18th International Symposium on Functional and Logic Programming - Sch
 layout: page
 ---
 
+Note: This schedule is preliminary and subject to change!
+
 ## Tuesday, May 26
 
 #### 9:30 Invited talk: Gabriele Keller
@@ -51,9 +53,7 @@ layout: page
 
 #### 9:30 Invited talk: Fritz Henglein
 
-#### 10:30-11:00 SRC presentation
-
-#### 11:00-12:00 Poster session
+#### 10:30-12:00 Poster session
 
 #### 12:00-14:00 Lunch
 
