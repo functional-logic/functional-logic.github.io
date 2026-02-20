@@ -24,10 +24,10 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 * [Registration](https://www.functional-logic.org/events/flops/2026/registration/)
 * [VISA](https://www.functional-logic.org/events/flops/2026/visa/)
 
-## Schedule
+## [Schedule](schedule/)
 
 FLOPS 2026 starts at 9:30 AM on May 26, and
-ends on May 28.
+ends on May 28 - [preliminary schedule](schedule/).
 
 | Day                       | 9:30 AM - 17:30 PM |
 |:-------------------------:|:-----------------:|
