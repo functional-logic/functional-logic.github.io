@@ -54,7 +54,7 @@ PROGRAM
 
 Keynote speakers:
 
-- Kazunori Ueda, Waseda Univerity
+- Kazunori Ueda, Waseda University
 - Fritz Henglein, University of Copenhagen
 - Gabriele Keller, Utrecht University
 

@@ -41,7 +41,7 @@ FLOPS 2026 local organizers:
 
 ## Keynotes
 
-- [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/), Waseda Univerity
+- [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/), Waseda University
 - [Fritz Henglein](https://di.ku.dk/english/staff/?pure=en/persons/14770),
   University of Copenhagen
 - [Gabriele Keller](https://www.uu.nl/staff/GKKeller),
