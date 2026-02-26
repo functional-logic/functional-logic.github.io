@@ -30,7 +30,7 @@ programming.
 
 VENUE
 
-FLOPS 2026 will take place at the University of Tskukuba.  Tsukuba is
+FLOPS 2026 will take place at the University of Tsukuba.  Tsukuba is
 about 60km from central Tokyo, and easily reachable via public
 transport from both Haneda and Narita airports.
 
@@ -44,8 +44,9 @@ You can register for FLOPS 2026 here:
 
 https://functional-logic.org/events/flops/2026/registration/
 
-Early-bird registration fee (until Apr 25) is 50000¥/20000¥ for
-students - roughly 275€, 325$, 240£ as of February 19.
+Early-bird registration fee (until Apr 25) is 50000 JPY for regular
+participants (roughly 275 EUR or 325 USD), and 20000 JPY for
+students (roughly 110 EUR or 130 USD).
 
 Registration includes an excursion and a banquet on May 27.  Extra
 banquet tickets are available.
@@ -102,4 +103,9 @@ Accepted papers:
 - Coltharp, N., Libby, S., Israel, L., Li, Y.: Unifying Hindsight and
   Foresight: Lazy Cost Analysis as Functional Logic Programming
 
-Further information about the conference and local arrangements is available on the conference website. 
+Further information about the conference and local arrangements is
+available on the conference website.
+
+------------------------------
+
+
