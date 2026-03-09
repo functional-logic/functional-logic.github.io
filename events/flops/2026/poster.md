@@ -1,17 +1,13 @@
 ---
-title: FLOPS 2026 - Student Research Competition and Posters
+title: FLOPS 2026 
 subtitle: 18th International Symposium on Functional and Logic Programming
 layout: page
 ---
 
-## [18th International Symposium on Functional and Logic Programming](../)
-## May 26-28, 2026, Tsukuba, Japan
+## Student Research Competition (SRC) and Poster
 
 FLOPS 2026 solicits researchers and students present their ongoing work
-as poster presentations and get feedback from ohter participants.
-The Audience Award for posters (including non-students' posters) will be
-given to the author(s) of the poster that gets the highest-number of
-votes by the audience.
+as poster presentations, and get feedback from other participants.
 
 Full-time students who will give poster presentations at FLOPS 2026
 can participate in the Student Research Competition (SRC).
@@ -21,23 +17,23 @@ by the judges.
 ## Submission
 
 Submissions for SRC and posters must fall within the scope of FLOPS.
-If you have questions about this, send inquiries to the organizers.
+If you have questions about this, send inquiries to the organizer.
 
 * (SRC submission)
-If you plan to attend the SRC, submit (1) a 2-page extended abstract,
-and (2) a poster by the SRC deadline.
+To attend the SRC, submit (1) a two-page extended abstract (PDF file),
+and (2) a poster (PDF file) by the SRC deadline.
 
 * (non-SRC submission)
-If you plan to present a poster but not to attend SRC,
-submit a poster by the poster-only deadline.
+To present a poster but not to attend SRC,
+submit a poster (PDF file) by the poster-only deadline.
 
-One author of each poster (who must be the lead author
-for an SRC attendant) must attend FLOPS 2026 and
+One author of each poster must attend FLOPS 2026 and
 give a poster presentation.
+For SRC, the presenter of a poster must be the lead author of the poster.
 
 Posters (SRC and non-SRC) should be submitted electronically at
 
-[`https://meteor.springer.com/FLOPS2026`](https://meteor.springer.com/FLOPS2026)
+[xxx](https://xxx)
 
 ## Important Dates
 
@@ -47,13 +43,11 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 | **SRC submission deadline** | Apr 25, 2026  |
 | **non-SRC poster due**      | May 18, 2026  |
 
-## Organizer
+## Organizers
 
-- Yukiyoshi Kameyama 
-
-## SRC Judges
-
-To be announced.
+- Mirai Ikebuchi, Kyoto University
+- Yukiyoshi Kameyama, University of Tsukuba
+- Akimasa Morihata, University of Tokyo
 
 ## Contact Address
 
