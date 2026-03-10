@@ -28,12 +28,12 @@ To participate in SRC,
 submit an extended abstract (a PDF file, A4 size, 10pt, max. 3 pages, excluding bibliography)
 by the submission deadline.
 If accepted, submit a poster (a PDF file, A0 size) by the poster deadline, and
-present a poster in the Poster Session of FLOPS 2026.
+present it at FLOPS 2026.
 The award-giving ceremony will be held on the last day of FLOPS 2026.
 
-## Non-SRC Submission 
+## Non-SRC Poster Submission 
 
-Submissions to the posters (but not to SRC)
+Non-SRC Poster Submissions 
 must fall within the scope of FLOPS, which
 describes the authors' published or unpublished work.
 
@@ -52,9 +52,9 @@ The submission site will be shown here.
 All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 |-------------------------|-------------------|
-| **Submission deadline** | Apr 15, 2026  |
+| **Submission deadline (SRC and non-SRC)** | Apr 15, 2026  |
 | **Notification of SRC** | Apr 22, 2026  |
-| **Final Posters due**   | May 16, 2026  |
+| **Final Posters due (SRC and non-SRC)**   | May 16, 2026  |
 | **FLOPS 2026**          | May 26-28, 2026  |
 
 ## SRC Judges
