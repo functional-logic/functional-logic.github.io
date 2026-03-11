@@ -17,6 +17,12 @@ co-sponsored by Special Interest Group on Programming and Programming
 Languages (SIG-PPL), Japan Society for Software Science and Technology
 (JSSST), in cooperation with ACM SIGPLAN.
 
+## Student Research Competition and Posters
+
+FLOPS 2026 will have the Student Research Competition (SRC) and Poster Session.
+Please submit your work to them.
+The details can be found at: [SRC and Posters](https://www.functional-logic.org/events/flops/2026/src-poster/)
+
 ## Local Information
 
 * [Travel & Venue](https://www.functional-logic.org/events/flops/2026/venue/)
@@ -31,9 +37,9 @@ ends on May 28 - [preliminary schedule](schedule/).
 
 | Day                       | 9:30 AM - 17:30 PM |
 |:-------------------------:|:-----------------:|
-| Day 1 (May 26, Tuesday)   | Technical sessions|
+| Day 1 (May 26, Tuesday)   | Technical sessions and poster session|
 | Day 2 (May 27, Wednesday) | Technical sessions, excursion and banquet|
-| Day 3 (May 28, Thursday)  | Technical sessions and poster session  |
+| Day 3 (May 28, Thursday)  | Technical sessions |
 
 ## Contact
 FLOPS 2026 local organizers: 
