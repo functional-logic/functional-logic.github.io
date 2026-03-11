@@ -54,7 +54,7 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 |-------------------------|-------------------|
 | **Submission deadline (SRC and non-SRC)** | Apr 15, 2026  |
-| **Notification of SRC** | Apr 22, 2026  |
+| **Notification of SRC** | Apr 20, 2026  |
 | **Final Posters due (SRC and non-SRC)**   | May 16, 2026  |
 | **FLOPS 2026**          | May 26-28, 2026  |
 
