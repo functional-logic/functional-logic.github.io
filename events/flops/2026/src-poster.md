@@ -44,8 +44,9 @@ present a poster in the Poster Session of FLOPS 2026.
 
 ## Submission site
 
-Submissions should be done electronically through EasyChair.
-The submission site will be shown here.
+Submissions should be done electronically through EasyChair at:
+[`https://easychair.org/conferences/?conf=flops2026src`](https://easychair.org/conferences/?conf=flops2026src)
+
 
 ## Important Dates
 
@@ -67,5 +68,6 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 - Yukiyoshi Kameyama, University of Tsukuba
 
-Please send any inquires about SRC and posters to `poster_at_logic.cs.tsukuba.ac.jp`
+Please send any inquires about SRC and posters to `flops2026src_at_easychair.org`
+
 
