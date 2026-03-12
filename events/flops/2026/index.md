@@ -89,7 +89,7 @@ The [Call for Papers](cfp/) is closed.
 
 - Ekaterina Komendantskaya (Program co-chair), University of Southampton
 - Mike Sperber (Program co-chair), Active Group
-- Yukiyoshi Kameyama (General Chair), Department of Computer Science, University of Tsukuba,
+- Yukiyoshi Kameyama (General Chair), University of Tsukuba
 
 - Reynald Affeldt, AIST 
 - Davide Ancona, University of Genova 
