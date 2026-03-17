@@ -11,6 +11,55 @@ Note: This schedule is preliminary and subject to change!
 #### 9:30 Opening
 #### 9:40 Invited talk: Gabriele Keller
 
+<details>
+<summary>
+Accelerate – past, present and future
+</summary>
+
+<p>
+Accelerate, a purely functional embedded parallel array language was
+designed to give Haskell programmers an easy, high-level way to
+exploit parallel hardware. It has been around for many years, and it
+has seen signiﬁcant changes, some on the user level, but mostly in its
+implementation behind the scene.
+</p>
+
+<p>
+This talk brieﬂy introduces the language, and the concept of
+functional parallel array languages in general. It also explores
+upcoming changes now available in an experimental release - that
+rethink fusion, scheduling, and code generation.
+</p>
+
+<p>
+Fusion optimizations typically focus on merging producer-consumer
+pairs to reduce intermediate structures and memory accesses. However,
+many approaches struggle with multiple inputs and often fail to fuse
+computations whose combination would be producing multiple outputs,
+therefor missing optimizations opportunities. Accelerate’s new
+strategy can deal with this situation. Yet, more powerful fusion
+strategies complicate ﬁnding optimal solutions, as this is an
+NP-complete problem, so this poses additional challenges.
+</p>
+
+<p>
+The new scheduling strategy, which we present, enables mixing data and
+task parallelism while preserving loop parallelism. In this respect,
+it is unlike most approaches that convert all parallelism to
+tasks. Preserving data-parallelism avoids task-parallel overhead and
+supports selfscheduling for loops, o!ering full ﬂexibility: thread
+counts and distribution need not be ﬁxed before execution.
+</p>
+
+<p>
+Finally, a new backend-aware intermediate language enables
+architecturedependent optimizations. Together, these innovations
+promise to improve performance, and broaden Accelerate’s applicability
+to modern hardware.
+</p>
+
+</details>
+
 #### 11:00-12:00 Talks: Functional Programming
 
 <details>
@@ -178,6 +227,54 @@ semantic interpretation.
 ## Wednesday, May 27
 
 #### 9:30 Invited talk: Kazunori Ueda
+
+<details>
+<summary>
+Hierarchical Port Hypergraphs: Two Decades Toward a Unifying Structure for Declarative Languages
+</summary>
+
+<p>
+Declarative languages take diverse forms with respect to data
+structures and control structures. They encompass a broad range of
+notions and paradigms, ranging from higher-order terms with binders to
+concurrent processes with various forms of communication.
+</p>
+
+<p>
+A natural but challenging question is whether many, if not all, of
+these frameworks can be uniﬁed within a simple yet expressive
+formalism, rather than merely combined into a larger formalism. Graphs
+and graph rewriting provide a promising framework, since higher-order
+terms can be represented as tree structures augmented with edges
+encoding binding structures, while networks of processes can be
+represented as graph nodes and edges representing processes and their
+interconnection, respectively.
+</p>
+
+<p>
+This perspective motivated us to design and implement LMNtal, a
+graph rewriting language for modeling and programming. LMNtal was
+conceived as an attempt to unify constraint-based concurrency
+(a.k.a. concurrent constraint programming) and Constraint
+Handling Rules [1], two extensions of concurrent logic programming,
+within a simple setting consisting of <i>relations</i> and <i>zero-assignment
+logical variables</i> that connect relations (i.e., without
+function/constant symbols). This ‘degeneration’ naturally allows
+computation to be interpreted in terms of graphs and graph
+rewriting. Here, graphs are more accurately described as <i>port graphs</i>
+(when each variable connects exactly two ports of graph nodes) or <i>port
+hypergraphs</i> (when each variable may connect more than two ports), to
+distinguish them from ordinary graphs in graph theory.
+</p>
+
+<p>
+Programming languages for graphs remain largely under-explored,
+presumably because graphs have poor aﬃnity with standard PL-style
+inductive deﬁnitions. LMNtal addresses this issue by allowing graphs
+to be represented as terms modulo structural congruence, which serves
+as a PL counterpart of graph isomorphism.
+</p>
+</details>
 
 #### 10:50-12:20 Tutorial
 
