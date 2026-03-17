@@ -6,8 +6,8 @@ layout: page
 
 ## Student Research Competition (SRC) and Posters
 
-FLOPS 2026 will include the Student Research Competition (SRC),
-which provides opportunities for students
+The Student Research Competition (SRC)
+provides opportunities for students
 to present their work and receive feedback from the community.
 Prizes will be awarded to students
 based on the judges' evaluation.
@@ -24,11 +24,11 @@ The lead author of the submission must be a full-time student.
 Submissions that do not satisfy these conditions will be rejected.
 If you have questions about the scope, contact the SRC organizer.
 
-To participate in SRC,
-submit an extended abstract (a PDF file, A4 size, 10pt, max. 3 pages, excluding bibliography)
+To apply for SRC,
+submit an extended abstract (a PDF file, A4 size, 10pt, max. 3 pages excluding bibliography)
 by the submission deadline.
 If accepted, submit a poster (a PDF file, A0 size) by the poster deadline, and
-present it at FLOPS 2026.
+present it in the Poster Session of FLOPS 2026.
 The award-giving ceremony will be held on the last day of FLOPS 2026.
 
 ## Non-SRC Poster Submission 
@@ -40,7 +40,7 @@ describes the authors' published or unpublished work.
 To present your poster at FLOPS 2026,
 submit a short abstract (text format) by the submission deadline.
 If accepted, submit a poster (a PDF file, A0 size) by the poster deadline, and
-present a poster in the Poster Session of FLOPS 2026.
+present it in the Poster Session of FLOPS 2026.
 
 ## Submission site
 
@@ -68,6 +68,6 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 - Yukiyoshi Kameyama, University of Tsukuba
 
-Please send any inquires about SRC and posters to `flops2026src_at_easychair.org`
+Please send any inquires about SRC and posters to `flops2026src_at_easychair.org`.
 
 

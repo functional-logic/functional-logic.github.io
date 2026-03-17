@@ -1,16 +1,20 @@
 ---
 title: "Accommodations"
-subtitle: 18th International Symposium on Functional and Logic Programming
+subtitle: 18Tm International Symposium on Functional and Logic Programming
 layout: page
 ---
 
 Tsukuba has many affordable hotels (the fees are much less than the hotels in Tokyo).
 Participants of FLOPS 2026 are encouraged to book hotels by themselves. 
 
-Notice: the local organizers will try to book several rooms in the university's guesthouse
-for the participants of FLOPS 2026.
-The guesthouse offers single rooms with very reasonable price (around 5000 JPY per night).
-The results will be available on this page in early March.
+University Guesthouse is available:
+the local organizers have booked a limited number of rooms in the university's guesthouse
+from May 25 to May 29 (four nights).
+The guesthouse offers single rooms at a reasonable price (5500 JPY per night).
+
+If you want to stay at the guesthouse, 
+send your request via [Guesthouse Reservation Form](https://forms.gle/uSisZb9e4n1qNNbF9).
+We will assign the rooms on a first-come, first-served basis.
 
 ## Recommended Hotels near Tsukuba Center
 
