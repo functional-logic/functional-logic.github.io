@@ -68,6 +68,6 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 - Yukiyoshi Kameyama, University of Tsukuba
 
-Please send any inquires about SRC and posters to `flops2026src_at_easychair.org`.
+Please send any inquiries about SRC and posters to `flops2026src_at_easychair.org`.
 
 
