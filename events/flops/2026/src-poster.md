@@ -14,7 +14,7 @@ based on the judges' evaluation.
 
 The associated poster session welcomes
 contributions from any FLOPS 2026 participants,
-not necessarily from students.
+not necessarily students.
 
 ## Submission to SRC
 
