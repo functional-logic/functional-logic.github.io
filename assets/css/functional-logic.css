@@ -1,0 +1,6 @@
+/* indent beyond chevron */
+details {
+    summary {
+	text-indent: 1em hanging;
+    }
+}
