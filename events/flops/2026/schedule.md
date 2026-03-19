@@ -154,7 +154,7 @@ stable models.
 
 <details>
 <summary>
-Bohrer, R.: Demonic Dynamic Logic Programming
+Bohrer, R.: Demonic Dynamic Logic Programming **(Distinguished Paper)**
 </summary>
 
 This paper introduces a logic programming language called Demonic
@@ -175,7 +175,7 @@ generate winning strategies of games.
 
 <details>
 <summary>
-Zhou, N., Jiang, C., Bierlee, H., Stuckey, P.: Dynamic Programming and Tabled Logic Programming for Encoding Single-Constant Multiplication into SAT (Declarative Pearl)
+Zhou, N., Jiang, C., Bierlee, H., Stuckey, P.: Dynamic Programming and Tabled Logic Programming for Encoding Single-Constant Multiplication into SAT (Declarative Pearl) **Distinguished Paper**
 </summary>
 
 Encoding single-constant multiplication (SCM) constraints into SAT is
