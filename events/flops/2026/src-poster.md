@@ -14,7 +14,7 @@ based on the judges' evaluation.
 
 The associated poster session welcomes
 contributions from any FLOPS 2026 participants,
-not necessarily from students.
+not necessarily students.
 
 ## Submission to SRC
 
@@ -68,6 +68,6 @@ All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 - Yukiyoshi Kameyama, University of Tsukuba
 
-Please send any inquires about SRC and posters to `flops2026src_at_easychair.org`.
+Please send any inquiries about SRC and posters to `flops2026src_at_easychair.org`.
 
 
