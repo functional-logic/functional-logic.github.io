@@ -14,6 +14,7 @@ The early registration deadline is April 25, 23:59 JST (UTC+9).
 |:-------:|:---------:|:---------:|
 | Regular | 50000 JPY | 60000 JPY |
 | Student | 20000 JPY | 30000 JPY |
+| Student Volunteer | 10000 JPY | not available |
 | Extra banquet ticket | 10000 JPY | 10000 JPY |
 
 Regular registration includes coffee&snacks, excursion, and banquet.
@@ -21,6 +22,11 @@ Student registration includes coffee&snacks and excursion, but not banquet.
 The student registration is applicable to full-time students.
 
 Note that at least one author for each accepted paper must register as regular registration.
+
+[New!] We call for a limited number of
+student volunteers who helps conference operations.
+The discount rate for student volunteers are shown
+in the table above.
 
 ## Registration Site
 
