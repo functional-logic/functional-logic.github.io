@@ -280,15 +280,14 @@ as a PL counterpart of graph isomorphism.
 
 <details>
 <summary>
-Alama, J.: Scheming in Lean
+Alama, J.: TypeScript, meet Lean!
 </summary>
 
-In this tutorial we'll get our hands dirty with
-Lean, a dependently-typed functional language and proof
-assistant that mixes proving and programming, including
-metaprogramming. Bring your laptop and get your hands dirty
-as we build up a little Scheme inside Lean, with proofs
-checking our work as we go.
+In this tutorial we'll get our hands dirty with Lean, a
+dependently-typed functional language and proof assistant that mixes
+proving and programming, including metaprogramming. Bring your laptop
+and get your hands dirty as we see how we can embed TypeScript inside
+Lean, with Lean checking our work as we go.
 </details>
 
 #### 12:20-14:00 Lunch
