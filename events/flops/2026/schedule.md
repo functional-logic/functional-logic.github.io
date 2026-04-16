@@ -302,7 +302,7 @@ Lean, with Lean checking our work as we go.
 
 <details>
 <summary>
-Pfingsten, B., Hemann, J.: Visualizing miniKanren Search with a Fine-Grained Small-Step Semantics
+Pfingsten, B., Hemann, J.: A Fine-Grained Small-Step Semantics for Interleaving Search
 </summary>
 
 We present a deterministic small-step operational semantics for
