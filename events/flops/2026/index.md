@@ -5,7 +5,10 @@ layout: page
 ---
 
 <div style="text-align: center">
-<img src="/events/flops/2026/TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 50%" />
+<img src="/events/flops/2026/images/tsukuba.center.jpg" alt="Tsukuba Center" style="max-width: 15em; width: 25%" />
+<img src="/events/flops/2026/images/TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 25%" />
+<img src="/events/flops/2026/images/owl.jpg" alt="Tsukuba's Bird -- Owl" style="max-width: 15em; width: 25%" />
+<img src="/events/flops/2026/images/mt.tsukuba.jpg" alt="Mt. Tsukuba" style="max-width: 15em; width: 25%" />
 </div>
 
 Welcome to the website of the 18th International Symposium on
