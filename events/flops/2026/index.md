@@ -11,8 +11,8 @@ layout: page
 Welcome to the website of the 18th International Symposium on
 Functional and Logic Programming (FLOPS 2026) on May 26-May 28, 2026
 in Tsukuba, Japan.
-The scientific description of FLOPS can be found
-at <a href="https://conf.researchr.org/home/flops-2026">the HotCRP site</a>.
+The scientific description of FLOPS
+can be found at <a href="https://conf.researchr.org/home/flops-2026">this site</a>.
 
 FLOPS 2026 is
 sponsored by Special Interest Group on Programming and Programming
