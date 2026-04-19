@@ -53,8 +53,8 @@ Submissions should be done electronically through EasyChair at:
 All deadlines are Anywhere on Earth (AoE = UTC-12).
 
 |-------------------------|-------------------|
-| **Submission deadline (SRC and non-SRC)** | Apr 15, 2026  |
-| **Notification of SRC** | Apr 20, 2026  |
+| **Submission deadline (SRC and non-SRC)** | Apr 27, 2026 (Extended) |
+| **Notification of SRC** | Apr 30, 2026  (Extended) |
 | **Final Posters due (SRC and non-SRC)**   | May 16, 2026  |
 | **FLOPS 2026**          | May 26-28, 2026  |
 

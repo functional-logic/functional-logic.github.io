@@ -1,0 +1,16 @@
+## Tuesday, May 26
+
+9:30 Opening
+
+9:40 Invited talk: Gabriele Keller
+                   Accelerate – past, present and future
+
+16:40-18:00 Student Research Competition and Posters
+
+9:30 Invited talk: Kazunori Ueda
+Hierarchical Port Hypergraphs: Two Decades Toward a Unifying Structure for Declarative Languages
+
+#### 10:50-12:20 Tutorial
+Alama, J.: TypeScript, meet Lean!
+#### 9:30 Invited talk: Fritz Henglein
+

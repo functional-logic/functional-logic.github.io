@@ -10,7 +10,7 @@ The early registration deadline is April 25, 23:59 JST (UTC+9).
 
 ## Registration Fees
 
-| Registration type | Early (until April 25 JST) | Late |
+| Registration type | Early (until April 25 JST) | Late (until May 10 JST)|
 |:-------:|:---------:|:---------:|
 | Regular | 50000 JPY | 60000 JPY |
 | Student | 20000 JPY | 30000 JPY |
