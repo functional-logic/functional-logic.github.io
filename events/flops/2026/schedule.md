@@ -60,7 +60,7 @@ to modern hardware.
 
 </details>
 
-#### 11:00-12:00 Talks: Functional Programming
+#### 11:00-12:30 Talks: Functional Programming
 
 <details>
 <summary>
@@ -290,9 +290,11 @@ and get your hands dirty as we see how we can embed TypeScript inside
 Lean, with Lean checking our work as we go.
 </details>
 
-#### 12:20-14:00 Lunch
+#### 12:20-13:30 Lunch
 
-#### 14:00- Excursion & Banquet
+#### 13:30- Excursion 
+
+#### 18:00- Banquet
 
 ## Thursday, May 28
 
@@ -428,7 +430,7 @@ recently been integrated into projects such as OpenSCAD (nightly
 builds), Blender, and has bindings for various languages.
 </details>
 
-#### 15:25-16:25 Talks: Testing
+#### 15:20-16:20 Talks: Testing
 
 <details>
 <summary>
