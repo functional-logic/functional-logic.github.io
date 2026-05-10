@@ -300,6 +300,56 @@ Lean, with Lean checking our work as we go.
 
 #### 9:30 Invited talk: Fritz Henglein
 
+<details>
+<summary>
+Mining algebra for power and performance
+</summary>
+
+<p> 
+
+What do query processing, deep learning and quantum computing have in
+common?  They can be formulated and generalized as dealing with linear
+operators over spaces such as free (semi)modules and Hilbert spaces,
+with associated classical algebras such as Boolean, associative and
+tensor algebras.  The algebras have universal equational properties
+that can be exploited at run time by judicious simplification.  Part
+of the trick is resisting the temptation to normalize data to a normal
+form, but employing symbolic operators that not only delay evaluation
+(as in lazy evaluation), but act differently depending on the context
+in which they occur at run time.  The challenge then is when and how
+much to simplify, which data structures to use, and how to analyze the
+algorithmic consequences.
+</p>
+
+<p>
+We illustrate this methodology by applying it to 
+</p>
+
+<ul>
+<li> relational first-order logic based query evaluation, where we show
+  that it is easy to program worst-case optimal joins on in-memory
+  data that are secure against algorithmic complexity attacks, require
+  few lines of code in Python or Haskell and perform quite well
+  compared to even highly advanced and mature query compilers and
+  database systems;
+</li>
+<li>
+  automatic differentiation (AD), where it leads to a DSL for
+  compactly representing linear operators and computing their adjoints
+  for reverse-mode AD.
+</li>
+</ul>
+
+<p>
+We will hint at other applications that we have developed in this
+fashion, from quantum circuit simulation to greenwashing-proof virtual
+energy sourcing. And we will encourage participants to think of more
+cases where this may be a (potentially revisionist) way of formulating
+their underlying methodology.
+</p>
+
+</details>
+
 #### 11:00-12:30 Talks
 
 <details>
