@@ -21,7 +21,8 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 
 ## What's New
 
-* (2025/05/12) [Program](schedule/) is out!
+* (2025/05/12) [Program](schedule/) is finalized.
+* (2025/05/12) [Social event information](social/) is out!
 
 ## Information
 
