@@ -14,31 +14,28 @@ layout: page
 Welcome to the website of the 18th International Symposium on
 Functional and Logic Programming (FLOPS 2026) on May 26-May 28, 2026
 in Tsukuba, Japan.
-The scientific description of FLOPS
-can be found at <a href="https://conf.researchr.org/home/flops-2026">this site</a>.
-
 FLOPS 2026 is
 sponsored by Special Interest Group on Programming and Programming
 Languages (SIG-PPL), Japan Society for Software Science and Technology
 (JSSST).
 
-## Student Research Competition and Posters
+## What's New
 
-FLOPS 2026 will have the Student Research Competition (SRC) and Poster Session.
-Please submit your work to them.
-The details can be found at: [SRC and Posters](https://www.functional-logic.org/events/flops/2026/src-poster/)
+* (2025/05/12) [Program](schedule/) is out!
 
-## Local Information
+## Information
 
-* [Travel & Venue](https://www.functional-logic.org/events/flops/2026/venue/)
-* [Accommodations](https://www.functional-logic.org/events/flops/2026/accommodations/)
-* [Registration](https://www.functional-logic.org/events/flops/2026/registration/)
-* [VISA](https://www.functional-logic.org/events/flops/2026/visa/)
+* [Travel & Venue](venue/)
+* [Accommodations](accommodations/)
+* [Registration](registration/)
+* [Excursion and Banquet](social/)
+* [Scientific Description](<a href="https://conf.researchr.org/home/flops-2026">) on the Researchr site
+* [SRC and Poster Session](src-poster/)
 
 ## [Schedule](schedule/)
 
 FLOPS 2026 starts at 9:30 AM on May 26, and
-ends on May 28 - [preliminary schedule](schedule/).
+ends on May 28 - [schedule](schedule/).
 
 | Day                       | 9:30 AM - 17:30 PM |
 |:-------------------------:|:-----------------:|

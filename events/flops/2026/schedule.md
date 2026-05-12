@@ -290,9 +290,9 @@ and get your hands dirty as we see how we can embed TypeScript inside
 Lean, with Lean checking our work as we go.
 </details>
 
-#### 12:20-13:30 Lunch
+#### 12:20-13:20 Lunch
 
-#### 13:30- Excursion 
+#### 13:20-17:30 Excursion
 
 #### 18:00- Banquet
 
