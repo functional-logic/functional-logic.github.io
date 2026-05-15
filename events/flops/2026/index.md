@@ -21,7 +21,7 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 
 ## What's New
 
-* (2025/05/12) [Program](schedule/) is finalized.
+* (2025/05/12) [Program](schedule/) has been finalized.
 * (2025/05/12) [Social event information](social/) is out!
 
 ## Information
@@ -30,13 +30,13 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 * [Accommodations](accommodations/)
 * [Registration](registration/)
 * [Excursion and Banquet](social/)
-* [Scientific Description](<a href="https://conf.researchr.org/home/flops-2026">) on the Researchr site
+* [Scientific Description](https://conf.researchr.org/home/flops-2026) on the Researchr site
 * [SRC and Poster Session](src-poster/)
 
-## [Schedule](schedule/)
+## [Program](schedule/)
 
 FLOPS 2026 starts at 9:30 AM on May 26, and
-ends on May 28 - [schedule](schedule/).
+ends on May 28 - [program](schedule/).
 
 | Day                       | 9:30 AM - 17:30 PM |
 |:-------------------------:|:-----------------:|
