@@ -174,6 +174,7 @@ generate winning strategies of games.
 </details>
 
 #### 15:20-16:20 Talks: Logic Programming
+#### Chair: Fritz Henglein
 
 <details>
 <summary>
