@@ -46,6 +46,11 @@ ends on May 28 - [preliminary schedule](schedule/).
 | Day 2 (May 27, Wednesday) | Technical sessions, excursion and banquet|
 | Day 3 (May 28, Thursday)  | Technical sessions |
 
+## Proceedings
+
+The Proceedings are published by Springer Nature as [LNCS
+16533](https://link.springer.com/book/10.1007/978-981-92-0184-6?as=webp).
+
 ## Contact
 FLOPS 2026 local organizers: 
 <span style="color=red">flops.tsukuba@gmail.com</span>
