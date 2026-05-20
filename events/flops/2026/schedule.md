@@ -61,6 +61,7 @@ to modern hardware.
 </details>
 
 #### 11:00-12:30 Talks: Functional Programming
+##### Chair: Atsushi Iragashi
 
 <details>
 <summary>
@@ -130,6 +131,7 @@ check variable grounding and relevance types to model pointed sets.
 #### 12:30-14:00 Lunch
 
 #### 14:00-15:00 Talks: Logic Programming
+##### Chair: Shin-ya Katsumata
 
 <details>
 <summary>
@@ -277,6 +279,7 @@ as a PL counterpart of graph isomorphism.
 </details>
 
 #### 10:50-12:20 Tutorial
+##### Chair: Mike Sperber
 
 <details>
 <summary>
@@ -351,6 +354,8 @@ their underlying methodology.
 </details>
 
 #### 11:00-12:30 Talks
+
+##### Chair: Akimasa Morihata
 
 <details>
 <summary>
@@ -429,6 +434,7 @@ Curry/KiCS2 to show how these translations can be used in practice.
 #### 12:30-14:00 Lunch
 
 #### 14:00-15:00 Talks: Functional Programming
+##### Chair: Jacques Garrigue
 
 <details>
 <summary>
@@ -481,6 +487,7 @@ builds), Blender, and has bindings for various languages.
 </details>
 
 #### 15:20-16:20 Talks: Testing
+##### Chair: Mike Sperber
 
 <details>
 <summary>
