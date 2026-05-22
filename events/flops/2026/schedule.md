@@ -10,6 +10,7 @@ Note: This schedule is preliminary and subject to change!
 
 #### 9:30 Opening
 #### 9:40 Invited talk: Gabriele Keller
+##### Chair: Mike Sperber
 
 <details>
 <summary>
@@ -230,6 +231,7 @@ semantic interpretation.
 ## Wednesday, May 27
 
 #### 9:30 Invited talk: Kazunori Ueda
+##### Chair: Yukiyoshi Kameyama
 
 <details>
 <summary>
@@ -303,6 +305,7 @@ Lean, with Lean checking our work as we go.
 ## Thursday, May 28
 
 #### 9:30 Invited talk: Fritz Henglein
+##### Chair: Ekaterina Komendantskaya
 
 <details>
 <summary>
