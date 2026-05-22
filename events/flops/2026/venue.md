@@ -34,7 +34,7 @@ to Tsukuba Center.
 
 For attendees arriving at either airport, limousine buses bound for Tsukuba Center are available from both Narita Airport and Haneda Airport. Tickets can only be purchased on the day of travel by cash or Suica card. Note that you must purchase a ticket at the counter/machine; you cannot tap your Suica card directly on the bus in this case.
 
-For more details about Narita-Tsukuba, refer to the [web page](https://www-keiseibus-co-jp-e.athp.transer.com/express-bus/90123-2/), and about Haneda-Tsukuba, refer to the [Timetable in Japanese](https://www.kantetsu.co.jp/cms/wp-content/themes/kr/pdf/bus/2023111infohaneda.pdf) and [Official webpage](https://www.kantetsu.co.jp/en/lang/expressbus/tsukuba-hnd).
+For more details about Narita-Tsukuba, refer to the [web page](https://www-keiseibus-co-jp-e.athp.transer.com/express-bus/), and about Haneda-Tsukuba, refer to the [Timetable in Japanese](https://www.kantetsu.co.jp/cms/wp-content/themes/kr/pdf/bus/2023111infohaneda.pdf) and [Official webpage](https://www.kantetsu.co.jp/en/lang/expressbus/tsukuba-hnd).
 
 For attendees arriving at Tokyo Station by train, there is a limousine bus bound for Tsukuba Center (refer to the [Timetable (in Japanese only)](https://www.kantetsu.co.jp/cms/wp-content/themes/kr/pdf/bus/hw_time_tsukuba-tokyo.pdf) and [Official webpage](https://www.kantetsu.co.jp/en/lang/expressbus/tsukuba-tokyo)). You can purchase tickets and board the express bus at the [JR Expressway Bus Service counter](https://www.tokyostationcity.com/en/information/bus_taxi.html) near the Yaesu South Gate of Tokyo Station. Alternatively, you can use a Suica card to board directly without purchasing a ticket in advance.
 
