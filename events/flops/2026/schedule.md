@@ -250,7 +250,7 @@ Taniguchi, A.: Handling the Selection Monad, Uniformly
 
 <details>
 <summary>
-Batyrbek, D.: On the Recognition of Dijkstra Graphs: Correcting a Contracion Lemma
+Batyrbek, D.: On the Recognition of Dijkstra Graphs: Correcting a Contraction Lemma
 (SRC poster)
 </summary>
 </details>
