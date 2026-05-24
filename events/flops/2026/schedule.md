@@ -227,6 +227,34 @@ semantic interpretation.
 
 #### 16:40-18:00 Student Research Competition and Posters
 
+<details>
+<summary>
+Tsuji, Y., Garrigue, J. and Saikawa, T.: A Rocq formalization of the Sorgenfrey line and related concepts
+(poster)
+</summary>
+</details>
+<details>
+<summary>
+Pfingsten, B. and Hemann, J.: A Declarative Visualization Layer for a Solver-Aided Reduction DSL
+(SRC poster)
+</summary>
+<summary>
+Taniguchi, A.: Handling the Selection Monad, Uniformly
+(SRC poster)
+</summary>
+</details>
+<details>
+<summary>
+Batyrbek, D.: On the Recognition of Dijkstra Graphs: Correcting a Contracion Lemma
+(SRC poster)
+</summary>
+</details>
+<details>
+<summary>
+</summary>
+</details>
+<details>
+
 ## Wednesday, May 27
 
 #### 9:30 Invited talk: Kazunori Ueda
