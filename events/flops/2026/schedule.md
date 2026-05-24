@@ -253,7 +253,6 @@ Batyrbek, D.: On the Recognition of Dijkstra Graphs: Correcting a Contracion Lem
 <summary>
 </summary>
 </details>
-<details>
 
 ## Wednesday, May 27
 
