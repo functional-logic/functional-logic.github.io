@@ -387,7 +387,7 @@ their underlying methodology.
 
 #### 11:00-12:30 Talks
 
-##### Chair: Akimasa Morihata
+##### Chair: Jacques Garrigue
 
 <details>
 <summary>
@@ -466,7 +466,7 @@ Curry/KiCS2 to show how these translations can be used in practice.
 #### 12:30-14:00 Lunch
 
 #### 14:00-15:00 Talks: Functional Programming
-##### Chair: Jacques Garrigue
+##### Chair: Akimasa Morihata
 
 <details>
 <summary>
