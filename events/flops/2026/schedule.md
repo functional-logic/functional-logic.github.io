@@ -136,7 +136,7 @@ check variable grounding and relevance types to model pointed sets.
 
 <details>
 <summary>
-Li, F., Gupta, G.: Computing Supported Models via Transformation to Stable Models
+Li, F., Gupta, G.: Computing Supported Models via Transformation to Stable Models (System Description)
 </summary>
 
 Supported models offer a semantics for logic programs that relaxes the
