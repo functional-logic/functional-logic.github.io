@@ -5,10 +5,7 @@ layout: page
 ---
 
 <div style="text-align: center">
-<img src="/events/flops/2026/images/tsukuba.center.jpg" alt="Tsukuba Center" style="max-width: 15em; width: 20%" />
-<img src="/events/flops/2026/images/TsukubasLambda.jpg" alt="Tsukuba's lambda" style="max-width: 15em; width: 20%" />
-<img src="/events/flops/2026/images/owl.jpg" alt="Tsukuba's Bird -- Owl" style="max-width: 15em; width: 20%" />
-<img src="/events/flops/2026/images/mt.tsukuba.jpg" alt="Mt. Tsukuba" style="max-width: 15em; width: 20%" />
+<img src="/events/flops/2026/images/group-photo.jpg" alt="FLOPS Group Photo" style="width: 100%" />
 </div>
 
 Welcome to the website of the 18th International Symposium on
@@ -19,17 +16,8 @@ sponsored by Special Interest Group on Programming and Programming
 Languages (SIG-PPL), Japan Society for Software Science and Technology
 (JSSST).
 
-## What's New
-
-* (2025/05/12) [Program](schedule/) has been finalized.
-* (2025/05/12) [Social event information](social/) is out!
-
 ## Information
 
-* [Travel & Venue](venue/)
-* [Accommodations](accommodations/)
-* [Registration](registration/)
-* [Excursion and Banquet](social/)
 * [Scientific Description](https://conf.researchr.org/home/flops-2026) on the Researchr site
 * [SRC and Poster Session](src-poster/)
 
