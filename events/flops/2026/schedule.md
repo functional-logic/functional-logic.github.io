@@ -65,6 +65,7 @@ to modern hardware.
 <details>
 <summary>
 Miyazawa, O., Nishizaki, S.: Matrix Coeffect: A Coeffect Calculus for Handling Interdependent Information
+<a href="../slides/miyazawa-nishizaki.pdf">[slides]</a>
 </summary>
 
 Coeffects capture requirements that the environment imposes on
@@ -155,7 +156,7 @@ stable models.
 
 <details>
 <summary>
-Bohrer, R.: Demonic Dynamic Logic Programming (Distinguished Paper)
+Bohrer, R.: Demonic Dynamic Logic Programming (Distinguished Paper) <a href="../slides/bohrer.pdf">[slides]</a>
 </summary>
 
 This paper introduces a logic programming language called Demonic
@@ -205,6 +206,7 @@ constraints. The full implementation is publicly available at:
 <details>
 <summary>
 Maieli, R., Acclavio, M.: Probabilistic Linear Logic Programming with an application to Bayesian Networks computations
+<a href="../slides/acclavio-maieli.pdf">[slides]</a>
 </summary>
 
 Bayesian networks are a canonical formalism for representing
@@ -262,6 +264,7 @@ Batyrbek, D.: On the Recognition of Dijkstra Graphs: Correcting a Contraction Le
 <details>
 <summary>
 Hierarchical Port Hypergraphs: Two Decades Toward a Unifying Structure for Declarative Languages
+<a href="../slides/ueda.pdf">[slides]</a>
 </summary>
 
 <p>
@@ -390,6 +393,7 @@ their underlying methodology.
 <details>
 <summary>
 Pfingsten, B., Hemann, J.: A Fine-Grained Small-Step Semantics for Interleaving Search
+<a href="../slides/pfingsten-hemann.pdf">[slides]</a>
 </summary>
 
 We present a deterministic small-step operational semantics for
@@ -496,7 +500,7 @@ multi-processor.
 
 <details>
 <summary>
-Lam, C.: Optimizing Mesh Booleans by Being Lazy (System Description)
+Lam, C.: Optimizing Mesh Booleans by Being Lazy (System Description) <a href="../slides/lam.pdf">[slides]</a>
 </summary>
 
 Mesh Boolean operations (union, difference, intersection) enable the
