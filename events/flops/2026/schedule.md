@@ -4,8 +4,6 @@ subtitle: 18th International Symposium on Functional and Logic Programming - Sch
 layout: page
 ---
 
-Note: This schedule is preliminary and subject to change!
-
 ## Tuesday, May 26
 
 #### 9:30 Opening
