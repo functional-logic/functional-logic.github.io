@@ -21,7 +21,7 @@ Languages (SIG-PPL), Japan Society for Software Science and Technology
 * [Scientific Description](https://conf.researchr.org/home/flops-2026) on the Researchr site
 * [SRC and Poster Session](src-poster/)
 * [YouTube Channel](https://www.youtube.com/@FLOPSTsukuba)
-   You can watch some talks given in FLOPS 2026.
+   provides several talks given in FLOPS 2026.
 
 ## [Program](schedule/)
 
