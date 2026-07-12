@@ -94,6 +94,7 @@ Petricek’s structural (schematic) coeffect calculus.
 <details>
 <summary>
 Cabo, Q., Scholz, S.: Finding Programming Faults Even When Large Parts of the Code have Disappeared
+<a href="https://www.youtube.com/watch?v=59RS0vzHPdM">[video]</a>
 </summary>
 
 This paper proposes a debugging technique for functional programming
@@ -111,6 +112,7 @@ argument information such as array dimensionality or shape.
 <details>
 <summary>
 Arntzenius, M., Willsey, M.: Finite Functional Programming or, LAMBDA: the Ultimate Predicate
+<a href="https://www.youtube.com/watch?v=Ji2FF4mDhDE">[video]</a>
 </summary>
 
 We unify functional and logic programming by treating predicates as
@@ -136,6 +138,7 @@ check variable grounding and relevance types to model pointed sets.
 <details>
 <summary>
 Li, F., Gupta, G.: Computing Supported Models via Transformation to Stable Models (System Description)
+<a href="https://www.youtube.com/watch?v=iZk1LtacHEY">[video]</a>
 </summary>
 
 Supported models offer a semantics for logic programs that relaxes the
@@ -156,7 +159,9 @@ stable models.
 
 <details>
 <summary>
-Bohrer, R.: Demonic Dynamic Logic Programming (Distinguished Paper) <a href="../slides/bohrer.pdf">[slides]</a>
+Bohrer, R.: Demonic Dynamic Logic Programming (Distinguished Paper) 
+<a href="../slides/bohrer.pdf">[slides]</a>
+<a href="https://www.youtube.com/watch?v=JoHSWC5z8R4">[video]</a>
 </summary>
 
 This paper introduces a logic programming language called Demonic
@@ -207,6 +212,7 @@ constraints. The full implementation is publicly available at:
 <summary>
 Maieli, R., Acclavio, M.: Probabilistic Linear Logic Programming with an application to Bayesian Networks computations
 <a href="../slides/acclavio-maieli.pdf">[slides]</a>
+<a href="https://www.youtube.com/watch?v=AkFXMXd-zXQ">[video]</a>
 </summary>
 
 Bayesian networks are a canonical formalism for representing
@@ -339,6 +345,7 @@ Lean, with Lean checking our work as we go.
 <details>
 <summary>
 Mining algebra for power and performance
+<a href="https://www.youtube.com/watch?v=AXSFXLPwyXY">[video]</a>
 </summary>
 
 <p> 
@@ -394,6 +401,7 @@ their underlying methodology.
 <summary>
 Pfingsten, B., Hemann, J.: A Fine-Grained Small-Step Semantics for Interleaving Search
 <a href="../slides/pfingsten-hemann.pdf">[slides]</a>
+<a href="https://www.youtube.com/watch?v=GB6Yt7FCG04">[video]</a>
 </summary>
 
 We present a deterministic small-step operational semantics for
@@ -413,6 +421,7 @@ validated through property-based testing.
 <details>
 <summary>
 Tudor, A., Arias, J., Gupta, G.: Automatic Knowledge Gap Detection and Plan Validation Using Counterfactual Justifications
+<a href="https://www.youtube.com/watch?v=XqyYjbopwZE&t=3s">[video]</a>
 </summary>
 
 Given the increased importance of physical AI, reliable planning in
@@ -446,6 +455,7 @@ correct.
 <details>
 <summary>
 Coltharp, N., Libby, S., Israel, L., Li, Y.: Unifying Hindsight and Foresight: Lazy Cost Analysis as Functional Logic Programming
+<a href="https://www.youtube.com/watch?v=BPqhs_hsLpE&t=271s">[video]</a>
 </summary>
 
 Clairvoyance semantics and demand semantics are both pure and
@@ -473,6 +483,7 @@ Curry/KiCS2 to show how these translations can be used in practice.
 <details>
 <summary>
 Kiselyov, O.: More Fun with Monoids (Declarative Pearl)
+a href="https://www.youtube.com/watch?v=-wMUDQ5l75A">[video]</a>
 </summary>
 
 Playing with monoids and discovering for oneself how frequently they
@@ -498,9 +509,9 @@ directly on raw deserialized (big) data, on multicore or
 multi-processor.
 </details>
 
-<details>
-<summary>
-Lam, C.: Optimizing Mesh Booleans by Being Lazy (System Description) <a href="../slides/lam.pdf">[slides]</a>
+<details> <summary> Lam, C.: Optimizing Mesh Booleans by Being Lazy
+(System Description) <a href="../slides/lam.pdf">[slides]</a> <a
+href="https://www.youtube.com/watch?v=d3N1oYaGmGo">[video]</a>
 </summary>
 
 Mesh Boolean operations (union, difference, intersection) enable the
@@ -553,6 +564,7 @@ among 79 polymorphic functions.
 <details>
 <summary>
 Boyland, P., Hyatt, S., Dewey, K., Hardekopf, B.: Breccia: A Functional DSL Compiled to Egglog for Test Input Generation
+<a href="https://www.youtube.com/watch?v=n52p4qArnjk">[video]</a>
 </summary>
 
 Some prominent efforts within fuzz testing to automatically generate
