@@ -17,23 +17,8 @@ contributions from any FLOPS 2026 participants,
 not necessarily students.
 
 (Updated on 2026/5/26)
-In response to our call for submissions,
-three students submitted extended abstracts and
-presented their posters during FLOPS 2026.
-We sincerely thank all participants for contributing
-their valuable work.
-
-Following a careful evaluation of the submissions
-and poster presentations,
-the three judges held an extensive discussion and
-selected the recipient of the First Prize:
-
-Danel Batyrbek, On the Recognition of Dijkstra Graphs:
-Correcting a Contraction Lemma
-
-Congratulations!
-
-## Submission to SRC
+The judges have decided on the prizes of SRC.
+See [SRC Prize](src-prize/) for the results.
 
 Submissions to SRC must fall within the scope of FLOPS 2026 and
 must describe work that has not been published in refereed venues.
