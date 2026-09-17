@@ -18,7 +18,7 @@ not necessarily students.
 
 (Updated on 2026/5/26)
 The judges have decided on the prizes of SRC.
-See [SRC Prize](src-prize/) for the results.
+See [SRC Prize](https://functional-logic.org/events/flops/2026/src-prize/) for the results.
 
 Submissions to SRC must fall within the scope of FLOPS 2026 and
 must describe work that has not been published in refereed venues.

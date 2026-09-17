@@ -8,7 +8,7 @@ layout: page
 
 The FLOPS 2026 Student Research Competition was held
 during the FLOPS meeting.
-See the page [SRC and Poster](src-poster/) for details.
+See the page [SRC and Poster](https://functional-logic.org/events/flops/2026/src-poster/) for details.
 
 After a thorough discussion,
 the three judges have selected
